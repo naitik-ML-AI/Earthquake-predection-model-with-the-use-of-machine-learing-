@@ -14,7 +14,7 @@ A machine learning model that analyzes seismic data to predict the likelihood of
 - Scikit-learn
 - Matplotlib, Seaborn
 
-## 🚀 How to Run
+
 
 made by 
 name - Naitik  Sharma 
